@@ -1,2 +1,2 @@
-# FASHION.AI
+index.html
 AI FASHION TRY-ON STUDIO
